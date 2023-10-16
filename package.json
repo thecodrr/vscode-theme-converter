@@ -1,11 +1,16 @@
 {
   "name": "vscode-theme-converter",
+  "description": "This is a simple utility that downloads, parses & converts VSCode themes into various formats.",
   "version": "1.0.0",
   "scripts": {
     "start": "ts-node cli.ts"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "thecodrr <thecodrr@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecodrr/vscode-theme-converter/issues"
+  },
+  "homepage": "https://github.com/thecodrr/vscode-theme-converter#readme",
   "devDependencies": {
     "@types/node": "^18.11.10",
     "@types/node-fetch": "^2.6.2",
