@@ -9,6 +9,11 @@ This is a simple utility that downloads, parses & converts VSCode themes into va
 
 ## Usage
 
+Requirements:
+
+1. Node.js
+2. Git
+
 ```
 npm run start -- --query material --provider kate
 ```
